@@ -1,0 +1,1 @@
+This module was completed during my masters studies, we covered Neural Networks, Decision Trees, Principal Component Analyis, k-NN clustering and more. This repository contains one of my assignments and an explanation can be found in Report.pdf
